@@ -569,8 +569,7 @@ nav ul.open {
 }
 
 #footerWrapper {
-  background: rgb(126, 217, 87);
-  background: #FF3131;
+  background: black;
   color: white;
 }
 
@@ -579,9 +578,8 @@ footer {
 }
 footer p {
   margin: 0;
-  font-weight: 600;
+  font-weight: 300;
   text-align: center;
-  font-size: 18px;
 }
 
 @media only screen and (min-width: 35rem) {
