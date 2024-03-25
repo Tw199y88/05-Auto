@@ -256,12 +256,14 @@ font-family: "Caveat Brush", cursive;
     background: rgb(126,217,87);
 background: #FF3131;
 color: white;
+
 }
 footer {
     padding: 0.5rem $gutter;
     p{
         margin: 0;
-        font-weight: $lightWeight;
+        font-weight: 600;
         text-align: center;
+        font-size: 18px;
     }
 }
